@@ -1,0 +1,2 @@
+# 参考記事
+http://www.hirooooo-lab.com/entry/development/react-redux-setup-environment
